@@ -102,4 +102,8 @@ Codigo Fonte:
 </html>"
 
 Imagens utilizadas:
+
 <img src="https://raw.githubusercontent.com/Viniciussinc/Trabalhoandroid/main/imagens/bugdroid.png">
+<img src="https://raw.githubusercontent.com/Viniciussinc/Trabalhoandroid/main/imagens/dan-droids-pq.png">
+<img src="https://raw.githubusercontent.com/Viniciussinc/Trabalhoandroid/main/imagens/irina-blok.jpg">
+
