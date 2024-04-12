@@ -111,3 +111,6 @@ Prints do site:
 <img src = "https://raw.githubusercontent.com/Viniciussinc/Trabalhoandroid/54489baa3f8be56425d36bcb98aec5e27425fd51/imagens/Opera%20Snapshot_2024-04-12_120731_127.0.0.1.png">
 <img src = "https://raw.githubusercontent.com/Viniciussinc/Trabalhoandroid/54489baa3f8be56425d36bcb98aec5e27425fd51/imagens/Opera%20Snapshot_2024-04-12_120846_127.0.0.1.png">
 <img src = "https://raw.githubusercontent.com/Viniciussinc/Trabalhoandroid/54489baa3f8be56425d36bcb98aec5e27425fd51/imagens/Opera%20Snapshot_2024-04-12_120904_127.0.0.1.png">
+
+Agradecimentos
+Agradecemos ao Professor Márcio por ministrar a disciplina e fornecer orientação sobre este trabalho.
