@@ -107,3 +107,5 @@ Imagens utilizadas:
 <img src="https://raw.githubusercontent.com/Viniciussinc/Trabalhoandroid/main/imagens/dan-droids-pq.png">
 <img src="https://raw.githubusercontent.com/Viniciussinc/Trabalhoandroid/main/imagens/irina-blok.jpg">
 
+Prints do site:
+<img src = "Opera Snapshot_2024-04-12_120731_127.0.0.1.png">
