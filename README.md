@@ -108,4 +108,6 @@ Imagens utilizadas:
 <img src="https://raw.githubusercontent.com/Viniciussinc/Trabalhoandroid/main/imagens/irina-blok.jpg">
 
 Prints do site:
-<img src = "Opera Snapshot_2024-04-12_120731_127.0.0.1.png">
+<img src = "[Opera Snapshot_2024-04-12_120731_127.0.0.1.png](https://raw.githubusercontent.com/Viniciussinc/Trabalhoandroid/54489baa3f8be56425d36bcb98aec5e27425fd51/imagens/Opera%20Snapshot_2024-04-12_120731_127.0.0.1.png)">
+<img src = "https://raw.githubusercontent.com/Viniciussinc/Trabalhoandroid/54489baa3f8be56425d36bcb98aec5e27425fd51/imagens/Opera%20Snapshot_2024-04-12_120846_127.0.0.1.png">
+<img src = "https://raw.githubusercontent.com/Viniciussinc/Trabalhoandroid/54489baa3f8be56425d36bcb98aec5e27425fd51/imagens/Opera%20Snapshot_2024-04-12_120904_127.0.0.1.png">
